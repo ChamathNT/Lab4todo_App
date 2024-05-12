@@ -120,7 +120,7 @@ fun AddNoteScreen(
                     }) {
                     Text(
                         text = if (state.id.value != null) "Update Task" else "Add Task",
-                        style = TextStyle(color = Color.White)
+                        style = TextStyle(color = Color.Black)
                     )
                 }
             }
