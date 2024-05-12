@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My To-Do List App</string>
+    <string name="home_screen_Title">My To-Do List</string>
+    <string name="home_add_note_Title">Add New Task</string>
+    <string name="home_edit_note_Title">Edit Task</string>
+</resources>
