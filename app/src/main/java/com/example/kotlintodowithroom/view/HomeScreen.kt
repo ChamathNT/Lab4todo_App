@@ -60,7 +60,7 @@ fun HomeScreen(
             }) {
 
 
-                Icon(imageVector = Icons.Rounded.Add, contentDescription = "Add New Note")
+                Icon(imageVector = Icons.Rounded.Add, contentDescription = "Add New Task")
 
             }
         }
